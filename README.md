@@ -8,6 +8,8 @@ declare(strict_types=1);
 namespace HLWrapper\HlBlock;
 
 
+use HLWrapper\HlBlock\BaseHLBlock;
+
 /**
  * Таблица с данными
  * Class DataTable
