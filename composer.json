@@ -2,6 +2,7 @@
   "name": "rikstone/hlwrapper",
   "description": "Класс для упрощения работы с Highload блоками Битрикса",
   "license": "mit",
+  "minimum-stability": "dev",
   "authors": [
     {
       "name": "rikstone",
