@@ -21,5 +21,5 @@ class DataTable extends BaseHLBlock
 
 //execute
 $hlBlock = DataTable::create();
-$this->hlBlock::add([]);
+$hlBlock::add([]);
 ```
